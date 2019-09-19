@@ -1,0 +1,114 @@
+<!-- Section -->
+<section class="md-section bg-gray" id="id-2">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5 ">
+
+        <!-- slide-image -->
+        <div class="slide-image ">
+
+          <!-- swiper__module swiper-container -->
+          <div class="swiper__module swiper-container slide-image__front" data-options='{"slidesPerView":1,"spaceBetween":0,"autoplay":2000}'>
+            <div class="swiper-wrapper">
+              <div class="slide-item" style="background-image: url('assets/img/about/1b.gif');"></div>
+              <div class="slide-item" style="background-image: url('assets/img/about/2.gif');"></div>
+              <div class="slide-item" style="background-image: url('assets/img/about/3.gif');"></div>
+            </div>
+            <div class="swiper-pagination-custom"></div>
+          </div><!-- End / swiper__module swiper-container -->
+
+
+          <!-- swiper-thumbnails__module swiper-container -->
+          <div class="swiper-thumbnails__module swiper-container slide-image__black" data-options='{"slidesPerView":1,"spaceBetween":0}'>
+            <div class="swiper-wrapper">
+              <div class="slide-item" style="background-image: url('assets/img/about/1.jpg');"></div>
+              <div class="slide-item" style="background-image: url('assets/img/about/2b.png');"></div>
+              <div class="slide-item" style="background-image: url('assets/img/about/3b.png');"></div>
+            </div>
+          </div><!-- End / swiper-thumbnails__module swiper-container -->
+
+        </div><!-- End / slide-image -->
+
+
+
+    <!-- swiper__module swiper-container -->
+    <div class="swiper__module swiper-container mt-50" data-options='{"slidesPerView":3,"spaceBetween":30,"autoplay":2000,"breakpoints":{"640":{"slidesPerView":1},"991":{"slidesPerView":2}}}'>
+      <div class="swiper-wrapper">
+
+        <!-- service -->
+        <div class="service mb-0">
+          <div class="service__icon"><i class="pe-7s-paint-bucket"></i></div>
+          <h3 class="service__title">Restaurantes y comercios</h3>
+          <p class="service__text">Buscamos el equilibrio entre el diseño y la optimización del consumo energético.</p>
+        </div><!-- End / service -->
+
+
+        <!-- service -->
+        <div class="service mb-0">
+          <div class="service__icon"><i class="pe-7s-paint-bucket"></i></div>
+          <h3 class="service__title">Viviendas unifamiliares</h3>
+          <p class="service__text">Nos especializamos en el diseño de viviendas adaptadas a la modernización y al campo</p>
+        </div><!-- End / service -->
+
+
+        <!-- service -->
+        <div class="service mb-0">
+          <div class="service__icon"><i class="pe-7s-lintern"></i></div>
+          <h3 class="service__title">Diseñamos el departamento de tus sueños</h3>
+          <p class="service__text">Mauris lacinia venenatis dolor sit amet viverra. Integer malesuada nulla neque.</p>
+        </div><!-- End / service -->
+
+
+        <!-- service -->
+        <div class="service mb-0">
+          <div class="service__icon"><i class="pe-7s-gleam"></i></div>
+          <h3 class="service__title">4</h3>
+          <p class="service__text">Curabitur elementum urna augue, eu porta purus gravida in. Cras consectetur,</p>
+        </div><!-- End / service -->
+
+
+        <!-- service -->
+        <div class="service mb-0">
+          <div class="service__icon"><i class="pe-7s-anchor"></i></div>
+          <h3 class="service__title">5</h3>
+          <p class="service__text">Duis porttitor libero ac egestas euismod. Maecenas quis felis turpis. Nulla quis</p>
+        </div><!-- End / service -->
+
+
+        <!-- service -->
+        <div class="service mb-0">
+          <div class="service__icon"><i class="pe-7s-refresh"></i></div>
+          <h3 class="service__title">6</h3>
+          <p class="service__text">Etiam non varius justo, vel tempor mi. Nulla facilisi. Fusce at tortor arcu.</p>
+        </div><!-- End / service -->
+
+
+        <!-- service -->
+        <div class="service mb-0">
+          <div class="service__icon"><i class="pe-7s-joy"></i></div>
+          <h3 class="service__title">7</h3>
+          <p class="service__text">Integer placerat ullamcorper urna nec rhoncus. Sed velit justo, lacinia non</p>
+        </div><!-- End / service -->
+
+
+        <!-- service -->
+        <div class="service mb-0">
+          <div class="service__icon"><i class="pe-7s-lock"></i></div>
+          <h3 class="service__title">8</h3>
+          <p class="service__text">Mauris lacinia venenatis dolor sit amet viverra. Integer malesuada nulla neque.</p>
+        </div><!-- End / service -->
+
+
+        <!-- service -->
+        <div class="service mb-0">
+          <div class="service__icon"><i class="pe-7s-magnet"></i></div>
+          <h3 class="service__title">9</h3>
+          <p class="service__text">Nam elit ligula, egestas et ornare non, viverra eu justo. Aliquam ornare lectus</p>
+        </div><!-- End / service -->
+
+      </div>
+    </div><!-- End / swiper__module swiper-container -->
+
+  </div>
+</section>
+<!-- End / Section -->
